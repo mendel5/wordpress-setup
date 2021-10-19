@@ -9,6 +9,8 @@ How to set up Wordpress
 - https://elementor.com/free-wordpress-themes/
 
 ## Plugins
+- https://wordpress.org/plugins/browse/popular/
+
 ### Page Builder
 - Elementor https://wordpress.org/plugins/elementor/
 
