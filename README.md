@@ -1,5 +1,5 @@
 # wordpress-setup
-How to set up Wordpress
+How to set up Wordpress. Some content is focused on Germany or in German.
 
 ## Hoster
 - Hetzner https://www.hetzner.com/webhosting
@@ -31,3 +31,9 @@ How to set up Wordpress
 ### Other
 - https://wordpress.org/plugins/fast-velocity-minify/
 - https://wordpress.org/plugins/wp-rollback/
+
+## Anleitung
+- https://www.domaindiscount24.com/de/unternehmen/news/was-macht-eine-gute-webseite-aus
+- https://www.webservice-sbraun.de/welche-inhalte-sollte-eine-lokale-firmenwebsite-enthalten/
+- https://www.drweb.de/website-checkliste/
+- https://www.heise-homepages.de/was-macht-eine-gute-webseite-aus/
