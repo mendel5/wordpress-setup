@@ -17,6 +17,10 @@ How to set up Wordpress. Some content is focused on Germany or in German.
 ### SEO
 - https://wordpress.org/plugins/wordpress-seo/
 
+### Analytics / Statistics
+- https://wordpress.org/plugins/statify/
+- https://wordpress.org/plugins/wp-statistics/
+
 ### Security
 - https://wordpress.org/plugins/wordfence/
 - https://wordpress.org/plugins/wps-hide-login/
